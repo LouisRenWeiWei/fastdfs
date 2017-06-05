@@ -15,7 +15,7 @@
 #include "fdfs_define.h"
 #include "connection_pool.h"
 
-#define FDFS_FILE_EXT_NAME_MAX_LEN	32
+#define FDFS_FILE_EXT_NAME_MAX_LEN	16
 
 #ifdef __cplusplus
 extern "C" {
